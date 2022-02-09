@@ -1,0 +1,25 @@
+*
+body{
+    background-color: pink;
+    padding: 50px 100px}
+h1{
+  text-align: center;
+}
+#container{
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+}
+#input{
+    display: inline-block;
+}
+.inp{
+    padding: 5px 10px;
+font-size: 30px;
+font-weight: bold;
+margin: 10px;
+width: 250px;
+}
+#font{
+    font-size:30px ;
+}
